@@ -1,0 +1,6 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<DIALTEMPLATE>
+<TEMPLATE MATCH="*#" TIMEOUT="0" REWRITE="%1"/>
+<TEMPLATE MATCH="*" TIMEOUT="3"/>
+</DIALTEMPLATE>

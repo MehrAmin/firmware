@@ -1,0 +1,85 @@
+
+<Default>
+   <callManagerGroup>
+      <members>
+         <member priority="0">
+            <callManager>
+               <ports>
+                  <ethernetPhonePort>2000</ethernetPhonePort>
+                  <mgcpPorts>
+                     <listen>2427</listen>
+                     <keepAlive>2428</keepAlive>
+                  </mgcpPorts>
+               </ports>
+               <processNodeName></processNodeName>
+            </callManager>
+         </member>
+      </members>
+   </callManagerGroup>
+   <loadInformation30002  model="Cisco 7920">cmterm_7920.4.0-03-02</loadInformation30002>
+   <loadInformation30006  model="Cisco 7970">SCCP70.8-3-1S</loadInformation30006>
+   <loadInformation115  model="Cisco 7941">SIP41.8-2-2SR2S</loadInformation115>
+   <loadInformation30016  model="Cisco IP Communicator"></loadInformation30016>
+   <loadInformation115 model="cisco 7941G">SIP41.8-2-2SR2S</loadInformation115>
+   <loadInformation30032  model="SCCP gateway virtual phone"></loadInformation30032>
+   <loadInformation308  model="Cisco 7961G-GE">SIP41.8-2-2SR2S</loadInformation308>
+   <loadInformation309  model="Cisco 7941G-GE">SIP41.8-2-2SR2S</loadInformation309>
+   <loadInformation30019  model="Cisco 7936">cmterm_7936.3-3-13-0</loadInformation30019>
+   <loadInformation12  model="Cisco ATA 186">ATA030203SCCP051201A</loadInformation12>
+   <loadInformation412  model="Cisco 3951">SIP3951.8-0-1</loadInformation412>
+   <loadInformation365  model="Cisco 7921">CP7921G-1.0.3</loadInformation365>
+   <loadInformation30007  model="Cisco 7912">CP7912080003SCCP070409A</loadInformation30007>
+   <loadInformation30035  model="IP-STE"></loadInformation30035>
+   <loadInformation369  model="Cisco 7906">SCCP11.8-3-1S</loadInformation369>
+   <loadInformation30018  model="Cisco 7961">SIP41.8-2-2SR2S</loadInformation30018>
+   <loadInformation20000  model="Cisco 7905">CP7905080003SCCP070409A</loadInformation20000>
+   <loadInformation446  model="Cisco 3911"></loadInformation446>
+   <loadInformation307  model="Cisco 7911G">SIP11.8-5-3SR1S</loadInformation307>
+   <loadInformation585	model="Cisco 8945">SIP894x.9-4-2SR3-1</loadInformation585>
+   <loadInformation4  model="Cisco 12 S"></loadInformation4>
+   <loadInformation3  model="Cisco 12 SP"></loadInformation3>
+   <loadInformation2  model="Cisco 12 SP+"></loadInformation2>
+   <loadInformation1  model="Cisco 30 SP+"></loadInformation1>
+   <loadInformation5  model="Cisco 30 VIP"></loadInformation5>
+   <loadInformation30  model="Analog Access">A001C030</loadInformation30>
+   <loadInformation47  model="Analog Access WS-X6624">A002H024</loadInformation47>
+   <loadInformation51  model="Conference Bridge WS-X6608">C00104000001</loadInformation51>
+   <loadInformation40  model="Digital Access">D001M022</loadInformation40>
+   <loadInformation43  model="Digital Access WS-X6608">D00404000029</loadInformation43>
+   <loadInformation42  model="Digital Access+">D00303010033</loadInformation42>
+   <loadInformation61  model="H.323 Phone"></loadInformation61>
+   <loadInformation7  model="Cisco 7960">P00308000500</loadInformation7>
+   <loadInformation100  model="Load Simulator"></loadInformation100>
+   <loadInformation111  model="Media Termination Point Hardware">M00104000004</loadInformation111>
+   <loadInformation120  model="MGCP Station"></loadInformation120>
+   <loadInformation121  model="MGCP Trunk"></loadInformation121>
+   <loadInformation348  model="Cisco 7931">SCCP31.8-3-1S</loadInformation348>
+   <loadInformation9  model="Cisco 7935">P00503021600</loadInformation9>
+   <loadInformation431  model="Cisco 7937"></loadInformation431>
+   <loadInformation375  model="Cisco TelePresence"></loadInformation375>
+   <loadInformation30008  model="Cisco 7902">CP7902080002SCCP060817A</loadInformation30008>
+   <loadInformation11  model="Cisco VGC Virtual Phone"></loadInformation11>
+   <loadInformation10  model="Cisco VGC Phone"></loadInformation10>
+   <loadInformation6  model="Cisco 7910">P00405000700</loadInformation6>
+   <loadInformation8  model="Cisco 7940">P0S3-08-2-00</loadInformation8>
+   <loadInformation8  model="Cisco 7940G">P0S3-08-2-00</loadInformation8>
+   <loadInformation30027  model="Analog Phone"></loadInformation30027>
+   <loadInformation124  model="7914 14-Button Line Expansion Module">S00105000300</loadInformation124>
+   <loadInformation119  model="Cisco 7971">SCCP70.8-3-1S</loadInformation119>
+   <loadInformation437  model="Cisco 7975">SIP75.9-4-2SR3-1S</loadInformation437>
+   <loadInformation404  model="Cisco 7962">SIP42.9-4-2SR3-1S</loadInformation404>
+   <loadInformation435  model="Cisco 7945">SIP45.9-4-2SR3-1S</loadInformation435>
+   <loadInformation435  model="Cisco 7945G">SIP45.9-4-2SR3-1S</loadInformation435>
+   <loadInformation302  model="Cisco 7985">cmterm_7985.4-1-4-0</loadInformation302>
+   <loadInformation434  model="Cisco 7942">SIP42.9-4-2SR3-1S</loadInformation434>
+   <loadInformation30028  model="ISDN BRI Phone"></loadInformation30028>
+   <loadInformation358  model="Cisco Unified Personal Communicator"></loadInformation358>
+   <loadInformation335  model="Motorola CN622"></loadInformation335>
+   <loadInformation436  model="Cisco 7965">SIP45.9-4-2SR3-1S</loadInformation436>  <authenticationURL></authenticationURL>
+      <loadInformation436  model="Cisco 7965g">SIP45.9-4-2SR3-1S</loadInformation436>
+  <directoryURL></directoryURL>
+  <idleURL></idleURL>
+  <informationURL></informationURL>
+  <messagesURL></messagesURL>
+  <servicesURL></servicesURL>
+</Default>
